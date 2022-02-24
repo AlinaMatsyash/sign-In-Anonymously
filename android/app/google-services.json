@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246003041194",
+    "firebase_url": "https://hihi-5e5b5-default-rtdb.firebaseio.com",
+    "project_id": "hihi-5e5b5",
+    "storage_bucket": "hihi-5e5b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246003041194:android:7c3aa19c6c55edad1121d3",
+        "android_client_info": {
+          "package_name": "com.example.anonymousfirebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246003041194-9plb2mhdi3ogtimu2nimhaatv6ltmg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsstAT-kqqO9n32Vo2tlQFULGChmyleQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246003041194-9plb2mhdi3ogtimu2nimhaatv6ltmg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
